@@ -1,7 +1,8 @@
 # Investment
 投資心得的地方
 
-推薦網頁：
+推薦網頁tool：
+
 https://www.stockdog.com.tw/stockdog/index.php?m=home
 
 https://statementdog.com/
